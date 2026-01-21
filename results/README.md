@@ -15,4 +15,3 @@ The plot below shows the estimated camera trajectory in the X–Z plane (lateral
 ## Notes
 - The trajectory is **up-to-scale** (monocular VO limitation).
 - No ground truth alignment is performed.
-- Results are intended for visualization and learning purposes.
